@@ -23,7 +23,7 @@ This app gives realtime notification of changes to a person's location.
 
 5. Insert a dummy document
 
-   `db.messages.insert({"type":"init"});`
+   `db.location.insert({"type":"init"});`
 
 ### Publish location
 
