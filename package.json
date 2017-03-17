@@ -1,0 +1,23 @@
+{
+  "name": "stalking-app",
+  "version": "0.0.2",
+  "description": "a stalking app created in node.js using mongodb",
+  "main": "sub.js",
+  "dependencies": {
+    "mongodb": "^2.2.25"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "sub.js Joe "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlameFractal/stalk-notifications-app.git"
+  },
+  "author": "flamefractal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlameFractal/stalk-notifications-app/issues"
+  },
+  "homepage": "https://github.com/FlameFractal/stalk-notifications-app#readme"
+}
