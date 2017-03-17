@@ -48,5 +48,5 @@ This app gives realtime notification of changes to a person's location.
 
 
 
-`[![YOUTUBE-VID](https://img.youtube.com/vi/PlViN6ZLP5E/0.jpg)](https://www.youtube.com/watch?v=PlViN6ZLP5E)`
+[![YOUTUBE-VID](https://img.youtube.com/vi/PlViN6ZLP5E/0.jpg)](https://www.youtube.com/watch?v=PlViN6ZLP5E)
 
