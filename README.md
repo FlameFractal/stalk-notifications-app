@@ -45,3 +45,8 @@ This app gives realtime notification of changes to a person's location.
 
 1. Create a plain html user interface 
 2. Build a REST API for pub/sub to DB
+
+
+
+`[![YOUTUBE-VID](https://img.youtube.com/vi/PlViN6ZLP5E/0.jpg)](https://www.youtube.com/watch?v=PlViN6ZLP5E)`
+
